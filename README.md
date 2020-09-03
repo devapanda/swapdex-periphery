@@ -8,7 +8,7 @@ The following assumes the use of `node@>=10`.
 
 ## Clone Repository
 
-`git clone https://github.com/levelkdev/swapdex-periphery.git`
+`git clone https://github.com/devapanda/swapdex-periphery.git`
 
 ## Install Dependencies
 
